@@ -1,0 +1,19 @@
+# ==== 编译产物 ====
+build/
+install/
+log/
+
+# ==== Python 缓存 ====
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+
+# ==== 编辑器 / 系统 ====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==== 其他临时文件（可选）====
+# *.tar.gz
